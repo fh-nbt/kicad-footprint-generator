@@ -280,6 +280,7 @@ Texas_S-PWSON-N8:
   #suffix: '_PullBack'
   #include_suffix_in_3dpath: 'False'
   #include_pad_size: 'fp_name_only' # 'both' | 'none' (default)
+  
 WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm:
   device_type: 'WSON'
   library: Package_SON
